@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: Robert solis"
+date: "Summer Semester"
 output: html_document
 ---
 
